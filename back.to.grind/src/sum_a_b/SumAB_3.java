@@ -1,4 +1,4 @@
-package sum.a.b;
+package sum_a_b;
 
 import java.util.Scanner;
 
