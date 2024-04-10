@@ -6,7 +6,7 @@ public class ReverseString_1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// Accept string input and reverse it in output
+		// reverse input using a for loop
 
 		Scanner sc = new Scanner(System.in);
 		String input = "";
