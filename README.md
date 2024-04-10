@@ -14,8 +14,8 @@ Making it error-proof, rewriting wich different loops, adding functions, ... all
 
 1. Calculator:
    - Basic
-   - using function
-   - division error proof
+   - using functions
+   - all operators, float, division error proof
 3. Reversing a String:
    - for loop
 
