@@ -16,10 +16,9 @@ Making it error-proof, rewriting wich different loops, adding functions, ... all
    - Basic
    - using functions
    - all operators, float, division error proof
-3. Reversing a String:
+2. Reversing a String:
    - for loop
    - while loop
    - with an array
-   - using an object
    
 
