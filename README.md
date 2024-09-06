@@ -20,5 +20,13 @@ Making it error-proof, rewriting wich different loops, adding functions, ... all
    - for loop
    - while loop
    - with an array
+3. Number guess game:
+   - randomized number
+   - user needs to figure out in 'X' attempts(hardcoded)
+4. BattleShip game V1
+   - first attempt with matrix
+   - no function nor input control (to be reviewed)
+   - expecting to randomize position of ships
+     
    
 
